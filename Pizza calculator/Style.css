@@ -1,0 +1,42 @@
+.small {
+
+	position: absolute;
+	margin-top: 10px;
+
+
+}
+
+.textSmall {
+
+	position: absolute;
+	margin-top: 8px;
+	margin-left: 23px;
+}
+
+.medium {
+   
+   position:  absolute;
+   margin-top: 40px;
+}
+
+.textMedium {
+
+	position: absolute;
+	margin-top: 38px;
+	margin-left: 23px;
+}
+
+.large {
+
+	position: absolute;
+	margin-top: 70px;
+
+}
+
+.textLarge {
+
+	position: absolute;
+	margin-top: 68px;
+	margin-left: 23px;
+
+}
